@@ -29,10 +29,10 @@ body{
 }
 /*image*/
 .image-container{
-    height: 45rem;
-    width: 80rem;
-
+    height: 36rem;
+    width: 60rem;
 }
+
 .image{
     height: 100%;
     width: 100%;
